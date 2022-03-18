@@ -1,9 +1,5 @@
 > -  原文地址：[How to Remove All Docker Images – A Docker Cleanup Guide](https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/)
-> -  原文作者：[
-                    
-                        Sebastian Sigl
-                    
-                ](https://www.freecodecamp.org/news/author/sesigl/)
+> -  原文作者：[SebastianSigl](https://www.freecodecamp.org/news/author/sesigl/)
 > -  译者：
 > -  校对者：
 

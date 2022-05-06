@@ -1,5 +1,5 @@
 > -  原文地址：[The Difference Between a Framework and a Library](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
-> -  原文作者：[BrandonWozniewicz](https://www.freecodecamp.org/news/author/brandon/)
+> -  原文作者：[Brandon Wozniewicz](https://www.freecodecamp.org/news/author/brandon/)
 > -  译者：
 > -  校对者：
 

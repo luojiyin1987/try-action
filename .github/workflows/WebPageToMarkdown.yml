@@ -29,6 +29,7 @@ jobs:
         with:
           newsLink: '${{ github.event.issue.Body }}'
           markDownFilePath: './chinese/articles/'
+          github_token: ${{secrets.GITHUB_TOKEN}}
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.9.2
         with:
